@@ -1,0 +1,6 @@
+Tracking Gate Sequencer
+version 1.0
+
+Outputs a series of gates on jacks 1-8, in a sequence that's stepped by the rising edge of a pulse on the IN jack.
+Rotate jack functions as a CV-sweep of the outputs jacks
+Reset jack resets back to jack 1 high
